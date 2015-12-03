@@ -37,4 +37,4 @@ $ mongo mydb map_reduce_prac1.js
 
 1. Generar una colección llamada session_watching donde almacenaremos el número total de items vistos por cada usuario.
 
-2. Generar una colección llamada item_populariry donde almacenaremos el número de usuarios que ven cada item.
+2. Generar una colección llamada item_popularity donde almacenaremos el número de usuarios que ven cada item.
